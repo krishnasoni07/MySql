@@ -1,1 +1,2 @@
 Select * from people;
+Select * from people where name = 'krishna';
